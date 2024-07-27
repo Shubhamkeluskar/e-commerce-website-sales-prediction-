@@ -48,5 +48,4 @@ The prediction made will help small businesses to grow and and also help them kn
 2. Noel Sangle (Machine Learning)
 3. Merwin Rebello
 
-#### Acknowledgement 
-We would like to thank our project guide  and special mention also to  our classmate Sahil Singh ( https://github.com/Sahil5111 )  who has also helped and contributed in this project.
+
