@@ -44,8 +44,8 @@ The prediction made will help small businesses to grow and and also help them kn
 3. HTML,CSS
 ### Team Members
 
-1. Shubham Kluskar (Website Designing) 
+1. Shubham Keluskar (Website Designing) 
 2. Noel Sangle (Machine Learning)
-3. Merwin Rebello
+3. Merwin Rebello 
 
 
